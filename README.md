@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
