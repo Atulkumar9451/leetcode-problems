@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
