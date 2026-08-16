@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
