@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
@@ -70,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
