@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
