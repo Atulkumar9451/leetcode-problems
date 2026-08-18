@@ -2,7 +2,6 @@ class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
         double totalSum=0;
-        int Sum=0;
         double maxAvg;
         if(k==1)
         {
