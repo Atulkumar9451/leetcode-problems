@@ -20,7 +20,7 @@ public:
             }
             else
             {
-                if(target>=nums[mid]&&target<=nums[right])
+                if(target>nums[mid]&&target<=nums[right])
                 {
                     left=mid+1;
                 }
