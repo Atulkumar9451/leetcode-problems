@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
