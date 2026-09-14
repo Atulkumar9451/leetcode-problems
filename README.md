@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
@@ -179,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0595-big-countries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
