@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 ## String Matching
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
