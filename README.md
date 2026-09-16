@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
