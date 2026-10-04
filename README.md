@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
