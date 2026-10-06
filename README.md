@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
