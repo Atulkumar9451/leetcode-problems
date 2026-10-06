@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3174-clear-digits](https://github.com/Atulkumar9451/leetcode-problems/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
