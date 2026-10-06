@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/Atulkumar9451/leetcode-problems/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atulkumar9451/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/Atulkumar9451/leetcode-problems/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/Atulkumar9451/leetcode-problems/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
