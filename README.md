@@ -240,4 +240,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Atulkumar9451/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/Atulkumar9451/leetcode-problems/tree/master/3174-clear-digits) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Atulkumar9451/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
