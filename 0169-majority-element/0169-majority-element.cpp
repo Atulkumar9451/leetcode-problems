@@ -2,23 +2,20 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         unordered_map<int,int> mp;
-        for(int num:nums){
+        for(int num : nums)
+        {
             mp[num]++;
         }
-        int i;
         int maxm=0;
-        int x;
-        for(auto i:mp)
+        int element;
+        for(auto pair:mp)
         {
-            if(i.second>maxm){
-                maxm=i.second;
-                x=i.first;
-
-            }
-            
-
+            if(pair.second>maxm){
+            maxm=max(maxm,pair.second);
+            element = pair.first;}
         }
-        return x;
+
+        return element;
 
         
     }
